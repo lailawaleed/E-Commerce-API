@@ -1,0 +1,11 @@
+D:\Self Study\ASP.NET\MVC\Day1\E-Commerce.Solution\E-Commerce.Domain\bin\Debug\net8.0\E-Commerce.Domain.deps.json
+D:\Self Study\ASP.NET\MVC\Day1\E-Commerce.Solution\E-Commerce.Domain\bin\Debug\net8.0\E-Commerce.Domain.dll
+D:\Self Study\ASP.NET\MVC\Day1\E-Commerce.Solution\E-Commerce.Domain\bin\Debug\net8.0\E-Commerce.Domain.pdb
+D:\Self Study\ASP.NET\MVC\Day1\E-Commerce.Solution\E-Commerce.Domain\obj\Debug\net8.0\E-Commerce.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\Self Study\ASP.NET\MVC\Day1\E-Commerce.Solution\E-Commerce.Domain\obj\Debug\net8.0\E-Commerce.Domain.AssemblyInfoInputs.cache
+D:\Self Study\ASP.NET\MVC\Day1\E-Commerce.Solution\E-Commerce.Domain\obj\Debug\net8.0\E-Commerce.Domain.AssemblyInfo.cs
+D:\Self Study\ASP.NET\MVC\Day1\E-Commerce.Solution\E-Commerce.Domain\obj\Debug\net8.0\E-Commerce.Domain.csproj.CoreCompileInputs.cache
+D:\Self Study\ASP.NET\MVC\Day1\E-Commerce.Solution\E-Commerce.Domain\obj\Debug\net8.0\E-Commerce.Domain.dll
+D:\Self Study\ASP.NET\MVC\Day1\E-Commerce.Solution\E-Commerce.Domain\obj\Debug\net8.0\refint\E-Commerce.Domain.dll
+D:\Self Study\ASP.NET\MVC\Day1\E-Commerce.Solution\E-Commerce.Domain\obj\Debug\net8.0\E-Commerce.Domain.pdb
+D:\Self Study\ASP.NET\MVC\Day1\E-Commerce.Solution\E-Commerce.Domain\obj\Debug\net8.0\ref\E-Commerce.Domain.dll
